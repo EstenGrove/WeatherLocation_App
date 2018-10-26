@@ -1,16 +1,4 @@
-Geolocation API Key: AIzaSyDTaZ8yryn9Yqb43DeqwugduDwMU00HPb0
-URL: https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyDTaZ8yryn9Yqb43DeqwugduDwMU00HPb0
-
-API Call w/o Key for Zip Code: api.openweathermap.org/data/2.5/weather?zip=85234,us
-
-OpenWeatherMap API Key: 010ae88646bcfcdd48ef3f00793d1858
-
-Call with Key: https://api.openweathermap.org/data/2.5/weather?zip=85234,us&APPID=010ae88646bcfcdd48ef3f00793d1858
-
-5-day Forecast: 
-https://api.openweathermap.org/data/2.5/forecast?zip=85234,us&id=524901&APPID=010ae88646bcfcdd48ef3f00793d1858
-
-id=524901
+<img width="1427" alt="weather_locationapp" src="https://user-images.githubusercontent.com/41505038/47567998-c390f400-d8e4-11e8-95ff-a0d1a224425f.png">
 
 
 To-Do's:
@@ -18,3 +6,5 @@ To-Do's:
 -Add SVG icons for weather conditions.
 -Create logic for adding matching SVG's
 -Perhaps insert graph at the bottom of each card
+-Add alternate searching methods
+-Pretty up the UI a bit
