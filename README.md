@@ -1,5 +1,5 @@
 # **Weather App**
-  -Built using the OpenWeatherMap API and vanilla JS. Converts kelvin to fahrenheit and shows a 3-day forecast with High and Low temperatures, wind speed, humidity percentage and chance of precipitation for each day. Can search by zip code or City and State.
+  -Built using the OpenWeatherMap API, vanilla JS and Flexbox for the weather cards. Converts kelvin to fahrenheit and shows a 3-day forecast with High and Low temperatures, wind speed, humidity percentage and chance of precipitation for each day. Can search by zip code or City and State.
 
 
 
