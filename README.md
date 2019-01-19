@@ -1,5 +1,5 @@
 # **Weather App**
-  -Built using the OpenWeatherMap API and vanilla JS
+  -Built using the OpenWeatherMap API and vanilla JS. Converts kelvin to fahrenheit and shows a 3-day forecast with High and Low temperatures, wind, chance of precipitation for each day.
 
 
 
